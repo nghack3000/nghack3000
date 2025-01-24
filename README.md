@@ -32,7 +32,3 @@ Completed a summer internship in game development for Stress Management for Pers
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=nghack3000&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=nghack3000&icon=6&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
